@@ -180,4 +180,56 @@ q = given number is divisible by 3
 if the given number is not divisible by 6 then the given number is not divisible by 
 3
 
+
+
+2. conjunction of P and Q
+
+Conjunction = "and" operator
+
+written as P ^ Q
+
+
+Disjunction 
+
+"or" operator
+
+P v Q
+
+Inclusive or == one false = true. both false == false
+
+exclusive or == Has to be all true to be true, one false = false. 
+	ex: P + Q
+	
+
+implication or conditional
+
+"if - then" or "implies"
+
+	P -> Q 
+p = hypothesis. Q = conclusion
+
+"If P, then Q"
+	"Q if P"
+
+
+
+HOWEVER. If hypothesis is false/unsatisfied, it will always be true. due to it being a hypothesis
+
+BICONDITIONAl
+
+"IF AND ONLY IF"
+
+	P <=> Q 
+		P is equivalent to Q
+
+T<=> T == T
+T<=> F == F
+F<=> T == F 
+F<=> F == T
+
+Types of proposition
+
+Tautology -> always true
+Contradiction -> always false
+
 ###TO BE UPDATED

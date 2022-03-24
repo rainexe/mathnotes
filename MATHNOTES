@@ -1,0 +1,183 @@
+### WORKINPROGRESS
+
+#OperatorCheatSheet
+
+
+Operators
++
+-
+* Multiply
+/ Division
+// (integer division, Floor division)
+% Modulo (Remainder)
+
+Follows (PE)MDAS
+
+Logical Operators
+
+Relational 
+
+> Greater than
+< Less than
+= greater than or equal to
+
+<= lesser than or equal to
+
+Equality 
+
+Equal to==
+
+not equal to !=
+
+KEYWORD OPERATOR 
+
+not = not
+and = and
+or = or
+
+
+### 24/03/22 SYNC NOTES
+
+proposition is a declaration 
+
+True = 1 or True
+
+Not Propositions
+
+Not True not false
+
+A. Giving commands, cant tell if true or false
+
+B. Distance from location to location
+
+C. X + 2 = 3x (No x value)
+
+
+Terminologies
+
+				Symbol				Meaning
+
+Negation				~					Not
+Conjunction				^					and
+Disjunction				v					or
+Conditional 			->					if/then
+Biconditional			<->					if and only if
+
+
+Truth Table ----
+
+P 			Q
+
+
+
+
+
+Related Conditionals
+
+Converse = reverse p -> Q
+
+contrapositive 
+
+negation of q -> negation of p
+
+inverse of conditional is negation of p -> negation of q
+
+-ex- 
+
+p = given number is divisible by 6
+
+q = given number is divisible by 3
+
+interchange it q -> p
+
+if the given number is divisible by 3 then the gievn number is divisible by 6
+
+contrapositive
+
+p = given number is divisible by 6
+
+q = given number is divisible by 3
+
+if the given number is not divisible by 3 then the given number is not divisible by 6
+
+
+inverse:
+
+p = given numbewr is divisible by 6
+
+q = given number is divisible by 3
+
+if the givvevn number is not divvisible by 6 then the gien number is not divisible by 
+3proposition is a declaration 
+
+True = 1 or True
+
+Not Propositions
+
+Not True not false
+
+A. Giving commands, cant tell if true or false
+
+B. Distance from location to location
+
+C. X + 2 = 3x (No x value)
+
+
+Terminologies
+
+				Symbol				Meaning
+
+Negation				~					Not
+Conjunction				^					and
+Disjunction				v					or
+Conditional 			->					if/then
+Biconditional			<->					if and only if
+
+
+Truth Table ----
+
+P 			Q
+
+
+
+
+
+Related Conditionals
+
+Converse = reverse p -> Q
+
+contrapositive 
+
+negation of q -> negation of p
+
+inverse of conditional is negation of p -> negation of q
+
+-ex- 
+
+p = given number is divisible by 6
+
+q = given number is divisible by 3
+
+interchange it q -> p
+
+if the given number is divisible by 3 then the gievn number is divisible by 6
+
+contrapositive
+
+p = given number is divisible by 6
+
+q = given number is divisible by 3
+
+if the given number is not divisible by 3 then the given number is not divisible by 6
+
+
+inverse:
+
+p = given number is divisible by 6
+
+q = given number is divisible by 3
+
+if the given number is not divisible by 6 then the given number is not divisible by 
+3
+
+###TO BE UPDATED

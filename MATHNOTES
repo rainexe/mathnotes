@@ -231,4 +231,76 @@ Types of proposition
 Tautology -> always true
 Contradiction -> always false
 
-###TO BE UPDATED
+###29/03/2022 SYNC SESSION
+
+Deductive Arguments
+
+	Collection of propositions where one of the propositions(conclusion) follows from the previous proposition(premise)
+	
+	ex: P1										-
+	    P2										|
+	    .		Assuming all is true						|
+	    .										|
+	    .										|	------> Propositional form
+	    Pn										|
+	    --										|
+	    .*.C -> must also be true			# .*. = therefore		|
+	   
+if true implies true, then the conclusion must be true
+
+	ex: P1:If today is sunny, then today is humid (1st premise)
+	    P2:Today is not humid.
+	    C: Therefore, today is not sunny. #tentative lol had to go to work
+	  				#p1 and p2 = premises. C = conclusion
+					
+	   Premises: A:Today is sunny.
+	   	     B:Today is humid.
+		     
+		     
+		     
+Tautology syntax = Within a truth table if there is a false it becomes nullified and therefore doesn't become a tautology. 
+			Formula : T -> F = F
+
+Rules of Inference 
+1. Addition 
+P1: P
+C: .*. P v Q				#if you are confused with the symbols, scroll back up into the symbol cheatsheet :)) 
+
+2. Simplification 
+	P1: P ^ Q 			P ^ Q 				Q^P 			Q^P
+	----------------------------------------------------------------------------------------------
+	C: .*. P 			.*. Q 				.*.Q			.*.P]
+				
+				P^Q -> P
+			T t	T	T	T
+			T f	F	T	T
+			F f	T	T	F
+			F f	T	T	F
+			
+3. Conjunction 
+	p1: P					(P1 ^ P2) => C
+	P2: Q							\
+	ci: p^Q					(P^Q) =>	(P^Q)
+						
+4. Modus Ponens
+
+	P1: 	P=>Q				[(P=>Q)^P ] = Q
+	P2: 	P				
+	-------------
+	c: .*. Q
+	
+5. Disjunctive Syllogism
+P1: P v Q				[(P v Q) ^ ~P] -> Q
+P2: ~P					T   T	T	 
+----------				T   T	F	
+C: .*. Q				F   T	T	
+					F   F	F	
+					
+#6-7 i looked at my phone mb will add
+
+8. Constructive Dilemma
+p1: (p=>q) ^ (R=>S)
+p2: P v R
+C:.*. Q V S
+9. Destructivve Dilema 
+p1: 

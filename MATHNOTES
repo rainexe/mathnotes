@@ -304,3 +304,59 @@ p2: P v R
 C:.*. Q V S
 9. Destructivve Dilema 
 p1: 
+
+
+
+
+
+
+
+
+---------------------------------------------
+
+INVESTMENTS
+
+Simple interest
+	- Simple interest is when the interest rate is fixed over a period over time
+	
+	I = Prt		(I = interest) (P = principal amount) (r is rate in decimal form) (t is time)
+	
+	F = P + I = P(1 + rt)       ( F = Future value or maturity value)
+	
+	
+
+Compound Interest 
+	- Compound interest earns interest not only on the principal but also on the interest earned in the prior period
+	
+	Formula: F = P(1+ r/m)^mt  		(P = principal) (r = rate per year(decimal)) (t = time (year)) (m = number of times interest is compounded)
+	
+	
+anually -> m = 1 
+semi ->  m = 2
+quarterly -> m = 4
+monthly -> m= 12 
+
+
+Savings Account:
+	store money securely while earning interest
+
+	1. you can deposit and withdraw cash anytime
+	2. bank pays you interest on the money you leave in your account
+	3. money is insured up to 500,000 through the Philippine deposit Insurance corporation
+	4. Various types of savings account (depending on the initial deposit, ADB and earning interest)
+	
+
+Time Deposit: 
+	Certificate of deposit in a bank product almost the same as a saving account. With time deposit account, your money will be kept by the bank for a fixed 
+	period of time for an interest rate higher than the savings account 
+	
+	terminating a time deposit account before the maturity date will result to a penalty from the bank. 
+	80% of money goes to us, 20% goes to the bank.
+	
+
+Several Regular Payments:
+	 An annuity is a sequence of  equal payments made regularly
+	 The amount of each payment is referred as the regular payment, denoted by r
+	 
+	 
+	
